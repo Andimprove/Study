@@ -4,14 +4,8 @@
             "Date":"2016-3-2",
             "Describe":"从这天开始～",
             "content":"Ajax",
-            "timeCount":"2hours"
-
-        }, 
-        "ly_2":{
-            "Date":"2016-3-2",
-            "Describe":"从这天开始～",
-            "timeCount":"",
-
+            "timeCount":"2",
+            "createTime":"23:24"
         }
     }
 }
